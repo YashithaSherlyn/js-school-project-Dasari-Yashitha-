@@ -10,8 +10,8 @@ Features  :
 
 index.html: Contains the core HTML elements for the app.
 
-A <header> with the main title.
+A header tag with the main title.
 
-A <section id="timeline"> to hold future event entries.
+A sction tag with id="timeline"  to hold future event details.
 
-An empty <div id="modal"> for pop-up functionality that will be added later. 
+An empty div tag with id="modal" for pop-up functionality that will be added later. 
