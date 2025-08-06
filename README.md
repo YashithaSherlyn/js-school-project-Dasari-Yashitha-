@@ -14,4 +14,4 @@ A <header> with the main title.
 
 A <section id="timeline"> to hold future event entries.
 
-An empty <div id="modal"> for pop-up functionality that will be added later.
+An empty <div id="modal"> for pop-up functionality that will be added later. 
